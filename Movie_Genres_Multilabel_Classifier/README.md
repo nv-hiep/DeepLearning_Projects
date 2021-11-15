@@ -1,4 +1,8 @@
 # MultiLabel Classification CNN Model
+![mv1](https://user-images.githubusercontent.com/13595525/141749533-d81b9755-890a-427e-945e-172b09b696ca.png)
+
+![mv2](https://user-images.githubusercontent.com/13595525/141749556-bee4707a-9470-4fe2-8917-c035b763831b.png)
+
 
 ## Movie Genre Prediction
 - Predict Genres of a Movie based on its Poster Image with the use of CNN Model
