@@ -1,7 +1,9 @@
 # MultiLabel Classification CNN Model
-![mv1](https://user-images.githubusercontent.com/13595525/141749533-d81b9755-890a-427e-945e-172b09b696ca.png)
 
-![mv2](https://user-images.githubusercontent.com/13595525/141749556-bee4707a-9470-4fe2-8917-c035b763831b.png)
+![mv1](https://user-images.githubusercontent.com/13595525/141749963-1259c2ed-2480-4b0a-995c-ec79d709336b.png)
+
+
+![mv2](https://user-images.githubusercontent.com/13595525/141749980-f44dd21c-0749-4ebe-b33e-65bd146091a5.png)
 
 
 ## Movie Genre Prediction
