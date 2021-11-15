@@ -1,5 +1,10 @@
 # MultiClass Classification with CNN Model
 
+![mcl1](https://user-images.githubusercontent.com/13595525/141750682-d76d52ba-c3c4-45af-970e-61dde1ff0780.png)
+
+![mcl2](https://user-images.githubusercontent.com/13595525/141750693-2cb3a3af-5b66-4659-83fc-e3f3aca37756.png)
+
+
 ## Class Prediction - Single Object in An Image
 - Predict Class of a single object in an image with the use of CNN Model
 - Use Class-Weight to deal with the Imbalanced Dataset
