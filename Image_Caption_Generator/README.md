@@ -1,5 +1,10 @@
 # Image Captioning With Encoder-Decoder
 
+![imcap1](https://user-images.githubusercontent.com/13595525/142015498-cd35671d-cb80-4db2-a14d-b971a26f94fc.png)
+
+![imcap2](https://user-images.githubusercontent.com/13595525/142015511-ebc703f8-f704-40fc-ae00-9601b2934eca.png)
+
+
 ## Image Captioning With Encoder-Decoder
 - Generate Image Caption using Encoder-Decoder model
 - Takes an image as input and generates a short text describing the content of the image.
@@ -20,7 +25,7 @@
         - Captions (https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 2. Run the notebook: Image_Caption_Generation.ipynb:
    - Data Cleaning
-   - Train a encoder-decoder model for image captioning
+   - Train an encoder-decoder model for image captioning
    - Generate the caption using an image as the input
    - Save the model and the model weight (Image_Caption_model.json and caption-model.hdf5) in directory /model
 4. Buid a webapp with Flask:
