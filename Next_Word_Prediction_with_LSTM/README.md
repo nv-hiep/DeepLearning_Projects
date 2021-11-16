@@ -1,5 +1,15 @@
 # Next Word Prediction with LSTM
 
+![nw1](https://user-images.githubusercontent.com/13595525/142016514-2a700aeb-2a25-49f9-89aa-7968e4b8b32f.png)
+
+![nw2](https://user-images.githubusercontent.com/13595525/142016532-5eb51ee5-10d9-44d2-8086-4f83b5fad6e3.png)
+
+
+![nw3](https://user-images.githubusercontent.com/13595525/142016549-3f2b39a3-1ea3-49bf-9ae6-9a5b62f8f562.png)
+
+![nw4](https://user-images.githubusercontent.com/13595525/142016563-1b894273-36f0-4cae-98a5-e44030fbe938.png)
+
+
 ## Next Word Prediction
 - Build a model to predict the next words of text using Long Short Term Memory (LSTM)
 - Use keras.preprocessing.text.Tokenizer to vectorize a text corpus, by turning each text into a sequence of integers (ref: https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer).
